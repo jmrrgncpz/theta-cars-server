@@ -1,9 +1,11 @@
 lockfileVersion: 5.4
 
 specifiers:
+  cors: ^2.8.5
   json-server: ^0.17.0
 
 dependencies:
+  cors: 2.8.5
   json-server: 0.17.0
 
 packages:
